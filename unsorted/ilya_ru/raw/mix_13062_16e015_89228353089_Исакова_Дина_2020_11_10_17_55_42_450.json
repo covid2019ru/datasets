@@ -1,0 +1,734 @@
+{
+  "FileName": "mix_13062_16e015_89228353089_Исакова_Дина_2020_11_10_17_55_42_450.mp3",
+  "Status": "complete",
+  "Message": "",
+  "FileLength": 62.06,
+  "IDLanguageName": "",
+  "LanguageRating": 0,
+  "FileConfidence": 0.91,
+  "Channels": [
+    {
+      "ChannelNumber": 0,
+      "SpeechLength": 34.88,
+      "Gender": "",
+      "Speaker": "unlnown",
+      "SID": null
+    },
+    {
+      "ChannelNumber": 1,
+      "SpeechLength": 16.83,
+      "Gender": "",
+      "Speaker": "unlnown",
+      "SID": null
+    }
+  ],
+  "LID": [],
+  "SpeechSegment": [
+    {
+      "Start": 0.8,
+      "End": 3.05,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Здравствуйте",
+          "Start": 0.8,
+          "End": 1.85,
+          "Confidence": 1
+        },
+        {
+          "Name": "надежда",
+          "Start": 1.91,
+          "End": 2.36,
+          "Confidence": 1
+        },
+        {
+          "Name": "Григорьевна.",
+          "Start": 2.36,
+          "End": 3.05,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 1.05,
+      "End": 4.24,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Алло",
+          "Start": 1.05,
+          "End": 1.5,
+          "Confidence": 0.78
+        },
+        {
+          "Name": "да.",
+          "Start": 3.79,
+          "End": 4.24,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 5.21,
+      "End": 9.6,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Вас",
+          "Start": 5.21,
+          "End": 5.46,
+          "Confidence": 1
+        },
+        {
+          "Name": "беспокоит",
+          "Start": 5.46,
+          "End": 5.97,
+          "Confidence": 0.78
+        },
+        {
+          "Name": "поликлиника",
+          "Start": 5.97,
+          "End": 6.6,
+          "Confidence": 1
+        },
+        {
+          "Name": "по",
+          "Start": 6.6,
+          "End": 6.72,
+          "Confidence": 1
+        },
+        {
+          "Name": "поводу",
+          "Start": 6.72,
+          "End": 7.05,
+          "Confidence": 1
+        },
+        {
+          "Name": "тест",
+          "Start": 7.05,
+          "End": 7.32,
+          "Confidence": 0.81
+        },
+        {
+          "Name": "на.",
+          "Start": 7.35,
+          "End": 7.5,
+          "Confidence": 0.68
+        },
+        {
+          "Name": "Хотели",
+          "Start": 7.8,
+          "End": 8.16,
+          "Confidence": 1
+        },
+        {
+          "Name": "узнать",
+          "Start": 8.16,
+          "End": 8.46,
+          "Confidence": 0.93
+        },
+        {
+          "Name": "как",
+          "Start": 8.46,
+          "End": 8.67,
+          "Confidence": 1
+        },
+        {
+          "Name": "вы",
+          "Start": 8.67,
+          "End": 8.76,
+          "Confidence": 1
+        },
+        {
+          "Name": "себя",
+          "Start": 8.76,
+          "End": 8.97,
+          "Confidence": 1
+        },
+        {
+          "Name": "чувствуете.",
+          "Start": 8.97,
+          "End": 9.6,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 11.08,
+      "End": 12.01,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Нормально.",
+          "Start": 11.08,
+          "End": 12.01,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 13.87,
+      "End": 17.59,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Если",
+          "Start": 14.32,
+          "End": 14.65,
+          "Confidence": 0.9
+        },
+        {
+          "Name": "очень",
+          "Start": 14.65,
+          "End": 14.95,
+          "Confidence": 0.98
+        },
+        {
+          "Name": "там",
+          "Start": 14.95,
+          "End": 15.19,
+          "Confidence": 0.6
+        },
+        {
+          "Name": "какие-нибудь",
+          "Start": 15.19,
+          "End": 15.7,
+          "Confidence": 1
+        },
+        {
+          "Name": "температура",
+          "Start": 15.7,
+          "End": 16.33,
+          "Confidence": 1
+        },
+        {
+          "Name": "кашель.",
+          "Start": 16.33,
+          "End": 16.81,
+          "Confidence": 1
+        },
+        {
+          "Name": "Ой.",
+          "Start": 17.38,
+          "End": 17.59,
+          "Confidence": 0.61
+        }
+      ]
+    },
+    {
+      "Start": 17.89,
+      "End": 21.64,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Нет",
+          "Start": 17.89,
+          "End": 18.37,
+          "Confidence": 0.98
+        },
+        {
+          "Name": "температуры",
+          "Start": 18.37,
+          "End": 19,
+          "Confidence": 0.97
+        },
+        {
+          "Name": "нет",
+          "Start": 19,
+          "End": 19.27,
+          "Confidence": 1
+        },
+        {
+          "Name": "каши",
+          "Start": 19.27,
+          "End": 19.6,
+          "Confidence": 0.51
+        },
+        {
+          "Name": "нет.",
+          "Start": 19.6,
+          "End": 20.08,
+          "Confidence": 0.68
+        },
+        {
+          "Name": "А",
+          "Start": 20.41,
+          "End": 20.56,
+          "Confidence": 1
+        },
+        {
+          "Name": "это",
+          "Start": 20.56,
+          "End": 20.74,
+          "Confidence": 0.94
+        },
+        {
+          "Name": "же",
+          "Start": 20.74,
+          "End": 20.83,
+          "Confidence": 0.91
+        },
+        {
+          "Name": "Бузулука",
+          "Start": 20.83,
+          "End": 21.37,
+          "Confidence": 0.85
+        },
+        {
+          "Name": "да.",
+          "Start": 21.37,
+          "End": 21.64,
+          "Confidence": 0.99
+        }
+      ]
+    },
+    {
+      "Start": 23.11,
+      "End": 27.37,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Это",
+          "Start": 23.11,
+          "End": 23.79,
+          "Confidence": 0.99
+        },
+        {
+          "Name": "с",
+          "Start": 23.83,
+          "End": 23.95,
+          "Confidence": 0.76
+        },
+        {
+          "Name": "поликлиники",
+          "Start": 23.95,
+          "End": 24.67,
+          "Confidence": 0.73
+        },
+        {
+          "Name": "мы",
+          "Start": 24.67,
+          "End": 24.79,
+          "Confidence": 1
+        },
+        {
+          "Name": "проводим",
+          "Start": 24.79,
+          "End": 25.18,
+          "Confidence": 1
+        },
+        {
+          "Name": "научное",
+          "Start": 25.18,
+          "End": 25.63,
+          "Confidence": 0.58
+        },
+        {
+          "Name": "исследование",
+          "Start": 25.63,
+          "End": 26.23,
+          "Confidence": 0.58
+        },
+        {
+          "Name": "симптоматика",
+          "Start": 26.23,
+          "End": 26.95,
+          "Confidence": 0.36
+        },
+        {
+          "Name": "карида.",
+          "Start": 26.95,
+          "End": 27.37,
+          "Confidence": 0.71
+        }
+      ]
+    },
+    {
+      "Start": 23.64,
+      "End": 29.16,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Алло.",
+          "Start": 23.64,
+          "End": 23.94,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 29.86,
+      "End": 35.89,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Пожалуйста",
+          "Start": 29.86,
+          "End": 30.58,
+          "Confidence": 1
+        },
+        {
+          "Name": "можно",
+          "Start": 30.58,
+          "End": 30.85,
+          "Confidence": 1
+        },
+        {
+          "Name": "попросить",
+          "Start": 30.85,
+          "End": 31.27,
+          "Confidence": 1
+        },
+        {
+          "Name": "вас",
+          "Start": 31.27,
+          "End": 31.48,
+          "Confidence": 1
+        },
+        {
+          "Name": "по",
+          "Start": 31.48,
+          "End": 31.57,
+          "Confidence": 0.51
+        },
+        {
+          "Name": "кашлять",
+          "Start": 31.57,
+          "End": 31.98,
+          "Confidence": 0.46
+        },
+        {
+          "Name": "в",
+          "Start": 31.98,
+          "End": 32.05,
+          "Confidence": 0.98
+        },
+        {
+          "Name": "трубку",
+          "Start": 32.05,
+          "End": 32.41,
+          "Confidence": 1
+        },
+        {
+          "Name": "как",
+          "Start": 32.41,
+          "End": 32.62,
+          "Confidence": 1
+        },
+        {
+          "Name": "на",
+          "Start": 32.62,
+          "End": 32.74,
+          "Confidence": 1
+        },
+        {
+          "Name": "приёме",
+          "Start": 32.74,
+          "End": 33.13,
+          "Confidence": 1
+        },
+        {
+          "Name": "у",
+          "Start": 33.13,
+          "End": 33.19,
+          "Confidence": 1
+        },
+        {
+          "Name": "врача",
+          "Start": 33.19,
+          "End": 33.52,
+          "Confidence": 1
+        },
+        {
+          "Name": "когда",
+          "Start": 33.52,
+          "End": 33.79,
+          "Confidence": 1
+        },
+        {
+          "Name": "он",
+          "Start": 33.79,
+          "End": 33.91,
+          "Confidence": 0.98
+        },
+        {
+          "Name": "говорит",
+          "Start": 33.91,
+          "End": 34.3,
+          "Confidence": 0.96
+        },
+        {
+          "Name": "дышите",
+          "Start": 34.3,
+          "End": 34.7,
+          "Confidence": 0.87
+        },
+        {
+          "Name": "не",
+          "Start": 34.7,
+          "End": 34.84,
+          "Confidence": 0.6
+        },
+        {
+          "Name": "дышите",
+          "Start": 34.83,
+          "End": 35.22,
+          "Confidence": 1
+        },
+        {
+          "Name": "по",
+          "Start": 35.23,
+          "End": 35.35,
+          "Confidence": 0.61
+        },
+        {
+          "Name": "карте.",
+          "Start": 35.35,
+          "End": 35.89,
+          "Confidence": 0.57
+        }
+      ]
+    },
+    {
+      "Start": 39.48,
+      "End": 40.02,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Могу.",
+          "Start": 39.48,
+          "End": 40.02,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 41.4,
+      "End": 42.81,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Можете",
+          "Start": 41.79,
+          "End": 42.12,
+          "Confidence": 1
+        },
+        {
+          "Name": "уже",
+          "Start": 42.12,
+          "End": 42.3,
+          "Confidence": 1
+        },
+        {
+          "Name": "по",
+          "Start": 42.3,
+          "End": 42.42,
+          "Confidence": 0.88
+        },
+        {
+          "Name": "кашель.",
+          "Start": 42.42,
+          "End": 42.81,
+          "Confidence": 0.78
+        }
+      ]
+    },
+    {
+      "Start": 46.22,
+      "End": 48.47,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Спасибо",
+          "Start": 46.22,
+          "End": 46.88,
+          "Confidence": 1
+        },
+        {
+          "Name": "вам",
+          "Start": 46.88,
+          "End": 47.12,
+          "Confidence": 1
+        },
+        {
+          "Name": "всего",
+          "Start": 47.12,
+          "End": 47.39,
+          "Confidence": 1
+        },
+        {
+          "Name": "доброго",
+          "Start": 47.39,
+          "End": 47.81,
+          "Confidence": 1
+        },
+        {
+          "Name": "до свидания.",
+          "Start": 47.81,
+          "End": 48.47,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 49.52,
+      "End": 51.17,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Ну",
+          "Start": 49.52,
+          "End": 49.73,
+          "Confidence": 1
+        },
+        {
+          "Name": "и",
+          "Start": 49.73,
+          "End": 49.82,
+          "Confidence": 0.97
+        },
+        {
+          "Name": "что",
+          "Start": 49.82,
+          "End": 50.03,
+          "Confidence": 0.9
+        },
+        {
+          "Name": "я",
+          "Start": 50.03,
+          "End": 50.18,
+          "Confidence": 1
+        },
+        {
+          "Name": "болею",
+          "Start": 50.18,
+          "End": 50.6,
+          "Confidence": 1
+        },
+        {
+          "Name": "не",
+          "Start": 50.6,
+          "End": 50.72,
+          "Confidence": 1
+        },
+        {
+          "Name": "болею.",
+          "Start": 50.72,
+          "End": 51.17,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 53.13,
+      "End": 56.94,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "Этого",
+          "Start": 53.13,
+          "End": 53.49,
+          "Confidence": 0.79
+        },
+        {
+          "Name": "мы",
+          "Start": 53.49,
+          "End": 53.64,
+          "Confidence": 1
+        },
+        {
+          "Name": "уже",
+          "Start": 53.64,
+          "End": 53.82,
+          "Confidence": 1
+        },
+        {
+          "Name": "не",
+          "Start": 53.82,
+          "End": 53.97,
+          "Confidence": 1
+        },
+        {
+          "Name": "знаю",
+          "Start": 53.97,
+          "End": 54.2,
+          "Confidence": 0.67
+        },
+        {
+          "Name": "просто",
+          "Start": 54.25,
+          "End": 54.6,
+          "Confidence": 1
+        },
+        {
+          "Name": "пока",
+          "Start": 54.6,
+          "End": 54.84,
+          "Confidence": 1
+        },
+        {
+          "Name": "собираем",
+          "Start": 54.84,
+          "End": 55.29,
+          "Confidence": 1
+        },
+        {
+          "Name": "данные",
+          "Start": 55.29,
+          "End": 55.65,
+          "Confidence": 1
+        },
+        {
+          "Name": "для",
+          "Start": 55.65,
+          "End": 55.89,
+          "Confidence": 1
+        },
+        {
+          "Name": "Научного",
+          "Start": 55.89,
+          "End": 56.34,
+          "Confidence": 1
+        },
+        {
+          "Name": "исследования.",
+          "Start": 56.34,
+          "End": 56.94,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 56.79,
+      "End": 59.29,
+      "ChannelNumber": 1,
+      "Words": [
+        {
+          "Name": "Хорошо",
+          "Start": 57.76,
+          "End": 58.57,
+          "Confidence": 1
+        },
+        {
+          "Name": "спасибо.",
+          "Start": 58.78,
+          "End": 59.29,
+          "Confidence": 1
+        }
+      ]
+    },
+    {
+      "Start": 59.97,
+      "End": 60.72,
+      "ChannelNumber": 0,
+      "Words": [
+        {
+          "Name": "До свидания.",
+          "Start": 59.97,
+          "End": 60.72,
+          "Confidence": 0.95
+        }
+      ]
+    }
+  ]
+}
